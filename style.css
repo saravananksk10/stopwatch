@@ -1,0 +1,33 @@
+section{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+}
+
+.container{
+   text-align: center;
+   border: 3px solid;
+   border-radius: 25px;
+   background-color: #222222;
+   padding: 15px 15px;
+}
+
+div{
+font-size: 45px;
+font-family: consolas, monospace;
+color: #40c437;}
+
+input{
+    height: 25px;
+    width: 70px;
+    border: 3px solid;
+    border-radius: 12px;
+    color: white;
+    background-color: #333333;
+    cursor: pointer;
+    font-family: consolas, monospace;
+    font-size: 15px;
+    font-weight: 550;
+}
+
